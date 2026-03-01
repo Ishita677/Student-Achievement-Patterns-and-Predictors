@@ -50,9 +50,12 @@ Most students score between **60–75**, indicating moderate variation and perfo
 
 ### Findings
 
-* Males slightly outperform females in **Mathematics** (68.44 vs 63.59)
+* Males slightly outperform females in **Mathematics** (68.43 vs 63.59)
 * Females outperform males in **Reading** (72.48 vs 65.44) and **Writing** (72.05 vs 63.50)
 * Performance gap is moderate and subject-specific
+* In math score, males scored 4.84 points higher than females.
+* In reading score, females scored 7.04 points higher than males.
+* In writing score, females scored 8.54 points higher than males.
 
 ### Interpretation
 
